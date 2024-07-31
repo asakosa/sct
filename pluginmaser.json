@@ -7,13 +7,13 @@
         "AssemblyVersion": "0.0.0.1",
         "ApplicableVersion": "any",
         "Tags": [
-            "cheese",
-            "maker",
-            "sc"
+            "sample",
+            "plugin",
+            "scs"
         ],
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/Cheesemaker/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/Cheesemaker//cheesemaker/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
