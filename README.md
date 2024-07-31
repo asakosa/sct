@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/scheesetart/sct/main/cheesemaker.json
+https://raw.githubusercontent.com/scheesetart/sct/main/plugins/cheesemaker.json
