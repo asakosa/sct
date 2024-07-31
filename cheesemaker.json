@@ -1,4 +1,3 @@
-[
     {
         "Author": "scheesetart",
         "Name": "Cheesemaker",
@@ -16,6 +15,5 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadCount": 0
     }
-]
+
