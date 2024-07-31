@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/scheesetart/sct/main/pluginmaser.json
+https://raw.githubusercontent.com/scheesetart/sct/main/pluginmaster.json
