@@ -13,7 +13,7 @@
         ],
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/Cheesemaker//cheesemaker/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/cheesemaker/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
