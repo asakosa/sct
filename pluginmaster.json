@@ -1,9 +1,9 @@
 [
     {
         "Author": "scheesetart",
-        "Name": "Cheesemaker",
+        "Name": "cheesemaker",
         "Description": "craft cheese",
-        "InternalName": "Cheesemaker",
+        "InternalName": "cheesemaker",
         "AssemblyVersion": "0.0.0.1",
         "ApplicableVersion": "any",
         "Tags": [
