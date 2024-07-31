@@ -12,12 +12,10 @@
             "sc"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "https://github.com/scheesetart/authwhiteblack/blob/main/Cheese.png",
-        "DownloadLinkInstall": "https://github.com/scheesetart/cheesemaker/releases/download/v0.0.1/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/scheesetart/cheesemaker/releases/download/v0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/scheesetart/cheesemaker/releases/download/v0.0.1/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1690848000"
     }
