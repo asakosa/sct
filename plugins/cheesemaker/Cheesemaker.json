@@ -2,7 +2,7 @@
   "Author": "sc",
   "Name": "Cheesemaker",
   "InternalName": "Cheesemaker",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
