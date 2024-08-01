@@ -1,20 +1,20 @@
 {
   "Author": "sc",
-  "Name": "Cheesemaker",
+  "Name": "cheesemaker",
   "InternalName": "Cheesemaker",
-  "AssemblyVersion": "0.0.0.5",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "AssemblyVersion": "0.0.0.6",
+  "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "scs"
+    "cheese",
+    "maker"
   ],
   "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
+  "Punchline": "",
   "AcceptsFeedback": true
 }
