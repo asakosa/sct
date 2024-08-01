@@ -1,10 +1,10 @@
 [
     {
-        "Author": "scheesetart",
-        "Name": "cheesemaker",
-        "Description": "craft cheese",
-        "InternalName": "cheesemaker",
-        "AssemblyVersion": "0.0.0.2",
+        "Author": "sc",
+        "Name": "Cheesemaker",
+        "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+        "InternalName": "Cheesemaker",
+        "AssemblyVersion": "0.0.0.5",
         "ApplicableVersion": "any",
         "Tags": [
             "sample",
@@ -12,14 +12,12 @@
             "scs"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/cheesemaker/latest.zip",
+        "DownloadLinkInstall": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "DownloadCount": 0,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/cheesemaker/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/scheesetart/sct/main/plugins/cheesemaker/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1722420996"
+        "LastUpdated": "1722474672"
     }
 ]
