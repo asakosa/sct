@@ -4,7 +4,7 @@
         "Name": "cheesemaker",
         "Description": "",
         "InternalName": "Cheesemaker",
-        "AssemblyVersion": "0.0.2.6",
+        "AssemblyVersion": "0.0.2.7",
         "ApplicableVersion": "any",
         "Tags": [
             "cheese",
@@ -18,6 +18,6 @@
         "DownloadLinkTesting": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "DownloadLinkUpdate": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1722799467"
+        "LastUpdated": "1722802197"
     }
 ]
