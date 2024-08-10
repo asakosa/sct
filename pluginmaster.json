@@ -11,7 +11,7 @@
             "maker"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
+        "IconUrl": "https://raw.githubusercontent.com/asakosa/authwhiteblack/main/Cheese.png",
         "DownloadLinkInstall": "https://github.com/asakosa/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
