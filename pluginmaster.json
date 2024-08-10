@@ -12,12 +12,12 @@
         ],
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
-        "DownloadLinkInstall": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
+        "DownloadLinkInstall": "https://github.com/asakosa/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/scheesetart/sct/raw/main/plugins/Cheesemaker/latest.zip",
+        "DownloadLinkTesting": "https://github.com/asakosa/sct/raw/main/plugins/Cheesemaker/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/asakosa/sct/raw/main/plugins/Cheesemaker/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723329104"
+        "LastUpdated": "1723329147"
     }
 ]
