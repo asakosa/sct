@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/scheesetart/authwhiteblack/main/Cheese.png",
+  "IconUrl": "https://raw.githubusercontent.com/asakosa/authwhiteblack/main/Cheese.png",
   "Punchline": "",
   "AcceptsFeedback": true
 }
