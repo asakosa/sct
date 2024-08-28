@@ -4,7 +4,7 @@
         "Name": "cheesemaker",
         "Description": "",
         "InternalName": "Cheesemaker",
-        "AssemblyVersion": "0.0.6.1086",
+        "AssemblyVersion": "0.0.0.001",
         "ApplicableVersion": "any",
         "Tags": [
             "cheese",
