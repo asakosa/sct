@@ -4,7 +4,7 @@
         "Name": "CheeseMaker Reborn",
         "Description": "",
         "InternalName": "CheeseMakerReborn",
-        "AssemblyVersion": "0.0.0.12",
+        "AssemblyVersion": "0.0.0.13",
         "ApplicableVersion": "any",
         "Tags": [
             "sample",
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/asakosa/sct/raw/main/plugins/CheeseMakerReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/asakosa/sct/raw/main/plugins/CheeseMakerReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1725547018"
+        "LastUpdated": "1725627591"
     }
 ]
