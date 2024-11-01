@@ -4,7 +4,7 @@
         "Name": "CheeseMaker Reborn",
         "Description": "",
         "InternalName": "CheeseMakerReborn",
-        "AssemblyVersion": "0.0.0.26",
+        "AssemblyVersion": "0.0.0.27",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/asakosa/authwhiteblack/main/CheeseRe.png",
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/asakosa/sct/raw/main/plugins/CheeseMakerReborn/latest.zip",
         "DownloadLinkUpdate": "https://github.com/asakosa/sct/raw/main/plugins/CheeseMakerReborn/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1730443581"
+        "LastUpdated": "1730460708"
     }
 ]
